@@ -8,5 +8,5 @@ metadata:
 spec:
   dependsOn: []
   lifecycle: production
-  owner: Developers
+  owner: DevOps
   type: service
