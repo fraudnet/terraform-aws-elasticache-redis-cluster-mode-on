@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  annotations:
+    github.com/project-slug: fraudnet/terraform-aws-elasticache-redis-cluster-mode-on
+    sentry.io/project-slug: fraudnet/terraform-aws-elasticache-redis-cluster-mode-on
+  name: terraform-aws-elasticache-redis-cluster-mode-on
+spec:
+  dependsOn: []
+  lifecycle: production
+  owner: DevOps
+  type: service
